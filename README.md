@@ -1,2 +1,4 @@
-# consultas-projetadas-efcore
-DICAS PARA ESCREVER CONSULTAS COM ENTITY FRAMEWORK CORE
+# DICAS PARA ESCREVER CONSULTAS COM ENTITY FRAMEWORK CORE
+
+Projeto utilizado para a escrita do artigo para o blog da Localiza
+
