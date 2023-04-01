@@ -1,0 +1,2 @@
+# consultas-projetadas-efcore
+DICAS PARA ESCREVER CONSULTAS COM ENTITY FRAMEWORK CORE
